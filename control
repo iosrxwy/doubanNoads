@@ -1,0 +1,9 @@
+Package: com.iosrxwy.doubanNoAds
+Name: doubanNoAds
+Version: 0.1-1
+Description: 豆瓣去广告。
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Author: iosrxwy
+Architecture: iphoneos-arm64
